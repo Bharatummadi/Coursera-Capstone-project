@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Coursera Capstone Project
 The capstone project is a part of the IBM Data Science Specialization, Coursera.
 
 The objective of this capstone project is to analyse and select the best locations in the city of
